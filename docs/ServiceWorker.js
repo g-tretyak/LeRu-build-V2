@@ -1,8 +1,8 @@
-const cacheName = "DefaultCompany-LeRu-v.01.08.02.2026.14:12";
+const cacheName = "DefaultCompany-LeRu-v.01.08.02.2026.14:21";
 const contentToCache = [
     "Build/03984065e02c1e8569f141375a4419ec.loader.js",
     "Build/df00ad00516d9af2e2fa4fd8fe373d66.framework.js",
-    "Build/71d5a450346bf151179b2344c1b19f11.data",
+    "Build/51204994ac0bfc337fada7148ce6099b.data",
     "Build/a6e0b527325ad02bd5d1430568fd0338.wasm",
     "TemplateData/style.css"
 
